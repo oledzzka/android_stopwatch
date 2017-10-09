@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+</resources>
